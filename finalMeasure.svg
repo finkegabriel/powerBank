@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,8 +39,8 @@
      id="namedview1101"
      showgrid="false"
      inkscape:zoom="0.51717105"
-     inkscape:cx="529.28005"
-     inkscape:cy="468.54881"
+     inkscape:cx="451.9362"
+     inkscape:cy="729.56395"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -288,5 +288,12 @@ separation distance: 1.96 mm (2.00 mm)</desc>
        x="1155.7214"
        y="872.31439"
        style="fill:none;stroke:#000000;stroke-width:0.66682309;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1.05287051;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path988"
+       cx="599.3244"
+       cy="132.00102"
+       rx="419.47354"
+       ry="95.851517" />
   </g>
 </svg>
